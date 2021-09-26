@@ -24,7 +24,7 @@ body {
   font-family: "Rubik Reguler", Arial, Helvetica, sans-serif;
 }
 
-.button {
+.btn {
   background: none;
   border: 2px solid var(--primary);
   color: var(--primary);
@@ -36,7 +36,7 @@ body {
   font-size: 1em;
 }
 
-.button:hover {
+.btn:hover {
   color: #222;
   background: var(--primary);
 }
@@ -214,7 +214,7 @@ h4 {
   max-width: 100%;
   height: 200px;
 }
-#contact .button {
+#contact .btn {
   margin-top: 10px;
 }
 
